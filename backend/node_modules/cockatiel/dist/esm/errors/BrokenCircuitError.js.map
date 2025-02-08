@@ -1,0 +1,1 @@
+{"version":3,"file":"BrokenCircuitError.js","sourceRoot":"","sources":["../../../src/errors/BrokenCircuitError.ts"],"names":[],"mappings":"AAAA;;;GAGG;AACH,MAAM,OAAO,kBAAmB,SAAQ,KAAK;IAG3C,YAAY,UAAkB,yDAAyD;QACrF,KAAK,CAAC,OAAO,CAAC,CAAC;QAHD,yBAAoB,GAAG,IAAI,CAAC;IAI5C,CAAC;CACF"}

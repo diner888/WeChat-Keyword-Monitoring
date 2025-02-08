@@ -1,0 +1,1 @@
+{"version":3,"file":"IsolatedCircuitError.js","sourceRoot":"","sources":["../../src/errors/IsolatedCircuitError.ts"],"names":[],"mappings":";;AAAA,6DAA0D;AAE1D;;;GAGG;AACH,MAAa,oBAAqB,SAAQ,uCAAkB;IAG1D;QACE,KAAK,CAAC,yDAAyD,CAAC,CAAC;QAHnD,2BAAsB,GAAG,IAAI,CAAC;IAI9C,CAAC;CACF;AAND,oDAMC"}

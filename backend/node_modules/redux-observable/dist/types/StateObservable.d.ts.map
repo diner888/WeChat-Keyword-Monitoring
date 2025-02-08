@@ -1,0 +1,1 @@
+{"version":3,"file":"StateObservable.d.ts","sourceRoot":"","sources":["../../src/StateObservable.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAW,MAAM,MAAM,CAAC;AAE3C,qBAAa,eAAe,CAAC,CAAC,CAAE,SAAQ,UAAU,CAAC,CAAC,CAAC;IACnD,KAAK,EAAE,CAAC,CAAC;IACT,OAAO,CAAC,UAAU,CAAoB;gBAE1B,MAAM,EAAE,UAAU,CAAC,CAAC,CAAC,EAAE,YAAY,EAAE,CAAC;CAqBnD"}

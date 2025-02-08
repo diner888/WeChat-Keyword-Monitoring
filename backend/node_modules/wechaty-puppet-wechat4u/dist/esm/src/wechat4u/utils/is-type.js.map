@@ -1,0 +1,1 @@
+{"version":3,"file":"is-type.js","sourceRoot":"","sources":["../../../../../src/wechat4u/utils/is-type.ts"],"names":[],"mappings":"AAAA,MAAM,UAAU,QAAQ,CAAE,EAAU;IAClC,IAAI,CAAC,EAAE;QAAE,OAAO,KAAK,CAAA;IACrB,OAAO,gBAAgB,CAAC,IAAI,CAAC,EAAE,CAAC,CAAA,CAAC,qBAAqB;AACxD,CAAC;AAED,MAAM,UAAU,WAAW,CAAE,EAAU;IACrC,OAAO,CAAC,QAAQ,CAAC,EAAE,CAAC,CAAA;AACtB,CAAC"}

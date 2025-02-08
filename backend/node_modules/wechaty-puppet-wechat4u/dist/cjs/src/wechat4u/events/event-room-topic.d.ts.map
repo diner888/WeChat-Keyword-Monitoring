@@ -1,0 +1,1 @@
+{"version":3,"file":"event-room-topic.d.ts","sourceRoot":"","sources":["../../../../../src/wechat4u/events/event-room-topic.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAkB,MAAM,sBAAsB,CAAA;AAC3E,OAAO,KAAK,KAAK,MAAM,MAAM,gBAAgB,CAAA;AAE7C,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,YAAY,CAAA;iCAehB,OAAO,MAAM,WAAW,oBAAoB,KAAG,QAAQ,YAAY,CAAC;AAAlG,wBAyDC"}

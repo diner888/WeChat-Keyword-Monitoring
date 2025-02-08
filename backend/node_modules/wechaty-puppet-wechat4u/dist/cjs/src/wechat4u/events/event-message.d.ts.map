@@ -1,0 +1,1 @@
+{"version":3,"file":"event-message.d.ts","sourceRoot":"","sources":["../../../../../src/wechat4u/events/event-message.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,MAAM,gBAAgB,CAAA;AAC7C,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,sBAAsB,CAAA;AAChE,OAAO,KAAK,EAAE,YAAY,EAAE,MAAM,YAAY,CAAA;kCAEf,OAAO,MAAM,WAAW,oBAAoB,KAAG,QAAQ,YAAY,CAAC;AAAnG,wBAEC"}
