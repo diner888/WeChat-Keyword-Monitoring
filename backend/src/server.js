@@ -41,7 +41,7 @@ app.get('/api/status', (req, res) => {
         status: 'running',
         wsClients: clients.size,
         hasQrCode: !!lastQrCode,
-        qrCode: lastQrCode // 也通过 API 提供二维码
+        qrCode: lastQrCode 
     });
 });
 
