@@ -9,7 +9,7 @@
 - **实时日志**: 通过 WebSocket 实时显示监控和系统日志
 - **二维码登录**: 自动生成并显示微信登录二维码
 - **桌面通知**: 检测到关键词时发送系统通知
-
+![alt text](images/test.png)
 ## 🛠️ 项目结构
 ```
 WeChat-Keyword-Monitoring/
@@ -42,6 +42,7 @@ npm install
 npm run dev
 ```
 前端页面将在 http://localhost:5173 启动
+![alt text](images/front.png)
 
 ### 3. 使用说明
 1. 打开浏览器访问 http://localhost:5173
@@ -54,7 +55,7 @@ npm run dev
 ```javascript
 const KEYWORDS = ['出']; // 设置需要监控的关键词
 const TARGET_NAME = 'BytePixel'; // 设置接收消息的目标联系人
-
+```
 ## 📌 注意事项
 1. **消息过滤**:
    - 消息长度小于20字符的会被过滤（可以自行修改）
@@ -76,13 +77,10 @@ const TARGET_NAME = 'BytePixel'; // 设置接收消息的目标联系人
    - 可以通过终端日志查看详细错误信息
    - WebSocket 断开时会自动尝试重连
 
----
 ## 🤝 开发建议
-1. 开发时建议使用 `npm run dev` 启动后端，支持热重载
-2. 可以通过前端页面的终端日志实时查看运行状态
-3. 建议在本地开发环境充分测试后再部署到生产环境
-
-
+- 可以通过前端页面的终端日志实时查看运行状态
+- 建议在本地开发环境充分测试后再部署到生产环境
+- 容器打包一键启动更方便，懒得搞了
 
 如有问题或建议，欢迎提交 Issue 或 Pull Request！
 
